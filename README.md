@@ -1,6 +1,10 @@
 # My first React App
 Practice project following the course from freeCodeCamp.
 
+The site is live [here](https://react-facts-asmit2952.vercel.app/).
+
+![Preview](./img/preview.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
