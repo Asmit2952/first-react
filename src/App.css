@@ -39,7 +39,11 @@ nav {
 
 main {
   padding: 57px 27px;
-  color: #FFFFFF
+  color: #FFFFFF;
+  background-image: url("./images/logo-half.svg");
+  background-repeat: no-repeat;
+  background-size: 50vh;
+  background-position: right;
 }
 
 .div-h1 {
